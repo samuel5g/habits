@@ -3,6 +3,8 @@
     "tables",
     "seed",
     "prisma",
-    "routes"
+    "routes",
+    "component",
+    "packages"
   ]
 }

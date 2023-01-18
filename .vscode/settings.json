@@ -5,6 +5,9 @@
     "prisma",
     "routes",
     "component",
-    "packages"
+    "packages",
+    "functions",
+    "screen",
+    "importations"
   ]
 }

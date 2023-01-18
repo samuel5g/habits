@@ -1,6 +1,7 @@
 {
   "conventionalCommits.scopes": [
     "tables",
-    "seed"
+    "seed",
+    "prisma"
   ]
 }

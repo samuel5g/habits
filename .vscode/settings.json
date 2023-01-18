@@ -5,6 +5,7 @@
     "prisma",
     "routes",
     "component",
-    "packages"
+    "packages",
+    "functions"
   ]
 }

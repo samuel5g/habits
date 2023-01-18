@@ -1,0 +1,8 @@
+{
+  "conventionalCommits.scopes": [
+    "tables",
+    "seed",
+    "prisma",
+    "routes"
+  ]
+}

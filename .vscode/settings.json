@@ -4,6 +4,7 @@
     "seed",
     "prisma",
     "routes",
-    "component"
+    "component",
+    "packages"
   ]
 }

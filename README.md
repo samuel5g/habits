@@ -6,6 +6,6 @@ Here I'll make an end-to-end application with Prisma, Fastify, React-Native, Exp
 
 - On day two, we created the tables (or model, according to Prisma) and their respective relationships with the http get and post methods to create a habit, or visualize all the habits until a certain day.
 
-In the frontend we created the header and the table that receives several small squares that symbolize the days.
+  In the frontend we created the header and the table that receives several small squares that symbolize the days.
 
-On mobile we create several components, packages to style them and configuration files for these dependencies to work
+  On mobile we create several components, packages to style them and configuration files for these dependencies to work

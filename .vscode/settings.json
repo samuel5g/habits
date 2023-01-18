@@ -2,6 +2,7 @@
   "conventionalCommits.scopes": [
     "tables",
     "seed",
-    "prisma"
+    "prisma",
+    "routes"
   ]
 }
